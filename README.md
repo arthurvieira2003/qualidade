@@ -8,4 +8,4 @@ O Aplicativo de Contagem de Estoque Copapel é uma solução desenvolvida para s
   <img src="https://github.com/RafaelRFAndrade/CopapelEstoque/assets/110788109/dbc978cc-1bbe-4609-987a-efe927a1c798.png" alt="Search" width="250"/>
 </div>
 
-<iframe src="https://catolicasc.sharepoint.com/sites/PAC-APPMobile/Cronograma/Lists/Tarefas/gantt.aspx"></iframe>
+<iframe src="https://catolicasc.sharepoint.com/sites/PAC-APPMobile/Cronograma/"></iframe>
